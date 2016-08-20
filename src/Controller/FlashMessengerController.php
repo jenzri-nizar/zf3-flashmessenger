@@ -5,7 +5,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-namespace Zf3\FlashMessenger\Controller;
+namespace Zf3\Flashmessenger\Controller;
 /**
  * Description of DemoController
  *

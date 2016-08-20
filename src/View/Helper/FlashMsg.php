@@ -1,6 +1,6 @@
 <?php
 
-namespace Zf3\FlashMessenger\View\Helper;
+namespace Zf3\Flashmessenger\View\Helper;
 
 use Zend\View\Helper\AbstractHelper;
 use Zend\View\Helper\FlashMessenger;
