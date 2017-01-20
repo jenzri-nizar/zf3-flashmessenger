@@ -28,6 +28,7 @@ class FlashmessengerController extends AbstractActionController
         echo $js;
         exit;
     }
+    
     public function cssAction(){
        
         header('Content-type:text/css;charset=utf-8');
