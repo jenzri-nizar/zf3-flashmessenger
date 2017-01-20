@@ -1,13 +1,8 @@
 <?php
 
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 namespace Zf3\Flashmessenger\Controller;
 /**
- * Description of DemoController
+ * Description of FlashmessengerController 
  *
  * @author web
  */
@@ -33,6 +28,7 @@ class FlashmessengerController extends AbstractActionController
         echo $js;
         exit;
     }
+    
     public function cssAction(){
        
         header('Content-type:text/css;charset=utf-8');
