@@ -7,7 +7,7 @@
  */
 namespace Zf3\Flashmessenger\Controller;
 /**
- * Description of DemoController
+ * Description of FlashmessengerController
  *
  * @author web
  */
