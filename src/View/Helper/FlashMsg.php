@@ -3,7 +3,7 @@
 namespace Zf3\Flashmessenger\View\Helper;
 
 use Zend\View\Helper\AbstractHelper;
-use Zend\View\Helper\FlashMessenger;
+use Zend\Mvc\Plugin\FlashMessenger\View\Helper\FlashMessenger;
 use Zend\View\Helper\InlineScript;
 use Zend\View\Helper\HeadLink;
 use Zend\View\Helper\BasePath;
